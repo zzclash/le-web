@@ -5,7 +5,7 @@
         <el-card>
           <div slot="header">
             Subscription Converter
-            <svg-icon icon-class="github" style="margin-left: 20px" @click="https://github.com/zzclash/le-web" />
+            <svg-icon icon-class="github" style="margin-left: 20px" @click="github.com/zzclash/le-web" />
 
             <div style="display: inline-block; position:absolute; right: 20px">{{ backendVersion }}</div>
           </div>
